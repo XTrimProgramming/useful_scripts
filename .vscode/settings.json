@@ -1,0 +1,7 @@
+{
+  "editor.formatOnPaste": false,
+  "editor.formatOnSave": true,
+  "files.autoSave": "afterDelay",
+  "java.autobuild.enabled": false,
+  "editor.inlineSuggest.showToolbar": "onHover"
+}
